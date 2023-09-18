@@ -83,9 +83,7 @@ Happy coding !!
 <h3><strong>connect with me!</strong></h3><br><br>
 
 <p align="center">
-<a href="https://twitter.com/Shivamkataria07 Ku41020756" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/Shivamkataria07 -kumar-developer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13448269/Shivamkataria07 -kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
 <a href="https://www.kaggle.com/Shivamkataria07 kumard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
 <a href="https://www.facebook.com/profile.php?id=100015925119091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
 <a href="https://www.instagram.com/fullstoprockey/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
