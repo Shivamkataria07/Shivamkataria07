@@ -20,13 +20,13 @@
 
 - 👯 I’m looking to collaborate on **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pintu544](https://github.com/pintu544)
+- 👨‍💻 All of my projects are available at [https://github.com/Shivamkataria07 ](https://github.com/Shivamkataria07 )
 
-- 📝 I regulary write articles on [pintu544.github.io](https:jm251.github.io)
+- 📝 I regulary write articles on [Shivamkataria07.github.io](https:Shivamkataria07.github.io)
 
 - 💬 Ask me about **Java,Web Developement,OS,DBMS,DS&Algo,System Design,React.
 
-- 📫 How to reach me **pksharmagh4@gmail.com**
+- 📫 How to reach me **Shivam10052000@gmail.com**
 
 - ⚡ Fun fact **Learn and share knowledge among Students**
 
@@ -83,45 +83,45 @@ Happy coding !!
 <h3><strong>connect with me!</strong></h3><br><br>
 
 <p align="center">
-<a href="https://twitter.com/PintuKu41020756" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/pintu-kumar-developer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13448269/pintu-kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.kaggle.com/pintukumard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.facebook.com/profile.php?id=100015925119091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.instagram.com/fullstoprockey/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UC4pvfTRkx3gQmIlP5vRoIPA?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/8709793486jio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user_w487/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://twitter.com/Shivamkataria07 Ku41020756" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/Shivamkataria07 -kumar-developer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13448269/Shivamkataria07 -kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
+<a href="https://www.kaggle.com/Shivamkataria07 kumard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100015925119091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
+<a href="https://www.instagram.com/fullstoprockey/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UC4pvfTRkx3gQmIlP5vRoIPA?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/8709793486jio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
+<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user_w487/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="Shivamkataria07 " height="30" width="30" /></a>
 </p>
 
 
 
 
-  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pintu544&show_icons=true&locale=en&layout=compact" alt="shivamKumar profile github states" /></p>
+  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivamkataria07 &show_icons=true&locale=en&layout=compact" alt="shivamKumar profile github states" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pintu544&show_icons=true&locale=en" alt="pintu-kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivamkataria07 &show_icons=true&locale=en" alt="Shivamkataria07 -kumar" /></p>
 
 
 # 🚀 Actions 🚀
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pintu544&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"/>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu544&layout=compact&hide_title=true&hide_border=true&show_icons=true" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Shivamkataria07 &show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamkataria07 &layout=compact&hide_title=true&hide_border=true&show_icons=true" />
 </div>
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pintu544&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamkataria07 &theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <br>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pintu544&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivamkataria07 &theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 <br>
 
@@ -161,7 +161,7 @@ Happy coding !!
 # Languages
 <h4 align="center">Most used languages (by number of commits)</h4>
 <p align="center">
-	<a href="https://profile.codersrank.io/user/pintu655#Tech%20Skills">
+	<a href="https://profile.codersrank.io/user/Shivamkataria07 655#Tech%20Skills">
 		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=formidablae&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,Go,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
 	</a>
 </p>
